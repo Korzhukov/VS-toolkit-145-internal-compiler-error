@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ICE test/ICE test.vcxproj" Id="20884fc0-b1b0-4ccc-b1e5-479a6670b108" />
+</Solution>
