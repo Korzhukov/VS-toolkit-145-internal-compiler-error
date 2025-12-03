@@ -131,7 +131,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ICE test.cpp" />
     <ClCompile Include="supportive_error_module.ixx" />
     <ClCompile Include="main_error_module.ixx" />
   </ItemGroup>
